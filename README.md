@@ -2,7 +2,7 @@
 
 Grupo aberto de estudo para cadetes da 42sp.
 
-Todas as quartas e sextas as 22h no canal do Discord referente ao projeto atual.
+Todas as quartas e sextas às 22h no canal do Discord referente ao projeto atual.
 
 ## Projeto Atual: [ft_printf](https://github.com/brunovmc/codinoite/tree/master/ft_printf)
 
@@ -11,7 +11,7 @@ int	ft_printf(const char *str,...);
 ```
 Recriando o printf.
 
-### Conversoes obrigatorias
+### Conversões obrigatórias
 
 ```
 cspdiuxX%
@@ -22,7 +22,7 @@ Flags
 ```
 -0.*
 ```
-e campo minimo de largura com todas as conversoes
+e campo mínimo de largura com todas as conversões
 
 
 ## Projetos Passados: [get_next_line](https://github.com/brunovmc/codinoite/tree/master/get_next_line)
@@ -50,8 +50,8 @@ nota:
 
 ## Projetos Futuros
 
-1. ft_printf
-2. ft_server
+1. ft_server
+2. cub3d
 
 
 ******
@@ -87,6 +87,6 @@ git checkout [nome da branch]
 
 [Laercio Candido](https://github.com/LaercioCandido)
 
-...e todos que participaram dos encontros!
+...e todos que participam dos encontros!
 
 Muito Obrigado!
